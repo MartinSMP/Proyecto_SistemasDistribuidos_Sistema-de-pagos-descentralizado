@@ -8,7 +8,7 @@ Sistema de Pagos Descentralizado - Blockchain
 
 Un sistema de pagos completamente **descentralizado** implementado con blockchain privado. Red P2P con múltiples nodos que utilizan **criptografía RSA** para transacciones seguras, **Proof of Work** para consenso distribuido y una interfaz web en tiempo real.
 
-> **Proyecto Educativo**: Demuestra los principios fundamentales de sistemas distribuidos, blockchain y criptografía de clave pública.
+> **Proyecto Universitario**: Demuestra los principios fundamentales de sistemas distribuidos, blockchain y criptografía de clave pública.
 
 ---
 
@@ -366,11 +366,6 @@ Las contribuciones son bienvenidas. Por favor:
 
 ---
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver [`LICENSE`](LICENSE) para más detalles.
-
----
 
 ## 👤 Autor
 
@@ -378,24 +373,6 @@ Este proyecto está bajo la Licencia MIT. Ver [`LICENSE`](LICENSE) para más det
 
 - GitHub: [@MartinSoftware](https://github.com/MartinSoftware)
 - Proyecto: [Sistema de Pagos Descentralizado](https://github.com/MartinSoftware/Proyecto_SistemasDistribuidos_Sistema-de-pagos-descentralizado)
-
----
-
-## 🙏 Agradecimientos
-
-- Inspiración en Bitcoin y Ethereum
-- Comunidad de sistemas distribuidos y blockchain
-- Proyecto educativo para aprender criptografía y P2P
-
----
-
-## 📞 Soporte
-
-Si tienes preguntas o problemas:
-
-1. Revisa [`INFORME_PROYECTO.md`](INFORME_PROYECTO.md)
-2. Abre un [Issue](https://github.com/MartinSoftware/Proyecto_SistemasDistribuidos_Sistema-de-pagos-descentralizado/issues)
-3. Consulta la documentación del código
 
 ---
 
