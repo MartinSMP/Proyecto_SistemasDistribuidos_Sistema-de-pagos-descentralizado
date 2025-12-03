@@ -55,9 +55,6 @@ cd Proyecto_SistemasDistribuidos_Sistema-de-pagos-descentralizado
 ```
 
 2. **Instala las dependencias**
-```bash
-pip install -r requirements.txt
-```
 
 Las dependencias principales son:
 - `Flask` - Framework web
